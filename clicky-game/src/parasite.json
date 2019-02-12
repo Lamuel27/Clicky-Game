@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "image": "morty.jpg"
+    },
+    {
+        "id": 2,
+        "image": "summer.jpg"
+    },
+    {
+        "id": 3,
+        "image": "beth.jpg"
+    },
+    {
+        "id": 4,
+        "image": "jerry.jpg"
+    },
+    {
+        "id": 5,
+        "image": "amish.jpg"
+    },
+    {
+        "id": 6,
+        "image": "butler.png"
+    },
+    {
+        "id": 7,
+        "image": "cousin-nicky.jpg"
+    },
+    {
+        "id": 8,
+        "image": "gary.jpg"
+    },
+    {
+        "id": 9,
+        "image": "giraffe.jpg"
+    },
+    {
+        "id": 10,
+        "image": "hamurai.jpg"
+    },
+    {
+        "id": 11,
+        "image": "pencil.png"
+    },
+    {
+        "id": 12,
+        "image": "poopy.jpg"
+    },
+    {
+        "id": 13,
+        "image": "raptor.jpg"
+    },
+    {
+        "id": 14,
+        "image": "tinkles.jpg"
+    },
+    {
+        "id": 15,
+        "image": "rick.jpg"
+    },
+    {
+        "id": 16,
+        "image": "steve.jpg"
+    }
+    
+]
